@@ -8,14 +8,6 @@ The technologies used are [DID (decentralized identifiers)](https://www.w3.org/T
 
 ### Running this project
 
-#### Gitpod
-
-To deploy this project to Gitpod, follow these steps:
-
-1. Click this link to deploy
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/dabit3/decentralized-identity-example)
-
 #### Local development
 
 To get up and running with this project:
@@ -25,7 +17,7 @@ To get up and running with this project:
 2. Clone the project
 
 ```sh
-git clone https://github.com/dabit3/decentralized-identity-example.git
+git clone https://github.com/szmizorsz/decentralized-identity-example.git
 ```
 
 3. Change into the directory, install dependencies, then start the server:
